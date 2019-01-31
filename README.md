@@ -1,2 +1,2 @@
 # randomsystem
-some random project
+Welcome to a random project
